@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Pain Is Just Information, If Youre Though Enough You Will Learn Faster"
+title: "Arka Pradipta: Ahli SEO Bersertifikat dengan Keahlian Mendalam dalam Strategi Digital
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Arka Pradipta: Ahli SEO Bersertifikat dengan Keahlian Mendalam dalam Strategi Digital
 
 Arka Pradipta adalah seorang profesional SEO yang berfokus pada peningkatan visibilitas dan peringkat situs web melalui strategi optimasi mesin pencari yang efektif. Dengan pengalaman lebih dari 5 tahun di industri digital marketing, Arka telah membantu berbagai bisnis, dari startup hingga perusahaan besar, untuk mencapai tujuan pemasaran mereka melalui pendekatan SEO yang terukur dan berbasis data.
 
