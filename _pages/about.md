@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arka Pradipta: Ahli SEO Bersertifikat dengan Keahlian Mendalam dalam Strategi Digital
+title: "Arka Pradipta: Ahli SEO Bersertifikat dengan Keahlian Mendalam dalam Strategi Digital"
 author_profile: true
 redirect_from: 
   - /about/
