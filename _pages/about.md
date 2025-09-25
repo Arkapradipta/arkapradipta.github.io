@@ -13,6 +13,11 @@ Arka Pradipta adalah seorang profesional SEO yang berfokus pada peningkatan visi
 
 Sebagai bukti komitmennya terhadap keunggulan profesional, Arka telah memperoleh sertifikasi dari dua platform terkemuka di industri SEO:
 
+- **Pemenang Anugerah Jurnalistik Adinegoro 2022**
+  - **Diberikan oleh**: Persatuan Wartawan Indonesia (PWI) Pusat
+  - **Deskripsi**: Meraih Anugerah Adinegoro, penghargaan karya jurnalistik paling bergengsi di Indonesia, untuk kategori **[Silakan isi nama kategorinya di sini]**. Pencapaian ini merupakan pengakuan atas karya yang dinilai berkualitas tinggi, beretika, dan memberikan dampak signifikan bagi masyarakat.
+
+
 - **Semrush Academy**:  
   Arka berhasil menyelesaikan kursus *SEO Essentials with Semrush*, yang mencakup topik-topik seperti riset kata kunci, audit situs, dan analisis pesaing.  
   Sertifikat: [Semrush Certificate](https://static.semrush.com/academy/certificates/bf3de53fd2/arka-pradipta_25.pdf)  
