@@ -15,7 +15,7 @@ Sebagai bukti komitmennya terhadap keunggulan profesional, Arka telah memperoleh
 
 - **Pemenang Anugerah Jurnalistik Adinegoro 2022**
   - **Diberikan oleh**: Persatuan Wartawan Indonesia (PWI) Pusat
-  - **Deskripsi**: Meraih Anugerah Adinegoro, penghargaan karya jurnalistik paling bergengsi di Indonesia, untuk kategori **[Silakan isi nama kategorinya di sini]**. Pencapaian ini merupakan pengakuan atas karya yang dinilai berkualitas tinggi, beretika, dan memberikan dampak signifikan bagi masyarakat.
+  - **Deskripsi**: Meraih Anugerah Adinegoro, penghargaan karya jurnalistik paling bergengsi di Indonesia. Pencapaian ini merupakan pengakuan atas karya yang dinilai berkualitas tinggi, beretika, dan memberikan dampak signifikan bagi masyarakat.
 
 
 - **Semrush Academy**:  
