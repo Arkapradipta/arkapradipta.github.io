@@ -55,8 +55,6 @@ Arka telah bekerja dengan berbagai klien di berbagai industri, termasuk e-commer
 - **Strategi SEO untuk Layanan Pendidikan**: Mengembangkan dan menerapkan strategi SEO untuk situs web lembaga pendidikan, meningkatkan trafik organik sebesar 150% dalam 4 bulan.
 - **Audit dan Optimasi Situs Kesehatan**: Melakukan audit teknis dan optimasi untuk situs web rumah sakit, meningkatkan kecepatan halaman dan pengalaman pengguna, yang berkontribusi pada peningkatan konversi pasien.
 
----
-
 ## Project
 
 Salah satu proyek terbaru saya adalah [**TALOS168**](https://talos168gg.xyz/), sebuah tema **Shopify 2.0** yang modern dan cepat.
