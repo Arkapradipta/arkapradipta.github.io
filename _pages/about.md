@@ -59,5 +59,7 @@ Arka telah bekerja dengan berbagai klien di berbagai industri, termasuk e-commer
 
 Salah satu proyek terbaru saya adalah [**TALOS168**](https://talos168gg.xyz/), sebuah tema **Shopify 2.0** yang modern dan cepat.
 
+Proyek saya yang kedua adalah [**TALOS168**](https://talos168.fyi/), sebuah website dengan informasi yangg bagus
+
 
 Jika Anda ingin mendiskusikan bagaimana Arka dapat membantu bisnis Anda mencapai tujuan SEO, jangan ragu untuk menghubungi melalui kontak yang tersedia di portofolio.
